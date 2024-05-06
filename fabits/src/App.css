@@ -1,0 +1,33 @@
+.filter-color{
+    color:#41558D;
+}
+
+.iconbg{
+    background: #445689;
+}
+
+.container {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+  
+.container.fadeOut {
+    opacity: 0; 
+  }
+
+  .slick-prev,
+.slick-next {
+  font-size: 24px; /* Adjust the size as needed */
+  z-index: 1; /* Ensure arrows appear above the slides */
+}
+
+/* Optionally, you can also style the arrows further */
+.slick-prev {
+  left: 10px; /* Adjust position as needed */
+  background-color: red;
+}
+
+.slick-next {
+  right: 10px; /* Adjust position as needed */
+  background-color: red;
+}
