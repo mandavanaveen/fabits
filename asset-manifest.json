@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fabits/static/css/main.8ec5c454.css",
+    "main.js": "/fabits/static/js/main.8c81d351.js",
+    "index.html": "/fabits/index.html",
+    "main.8ec5c454.css.map": "/fabits/static/css/main.8ec5c454.css.map",
+    "main.8c81d351.js.map": "/fabits/static/js/main.8c81d351.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ec5c454.css",
+    "static/js/main.8c81d351.js"
+  ]
+}
